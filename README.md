@@ -17,3 +17,6 @@ Ich habe in diesem README.md die Beschreibungen und Screenshots hinzugefügt. Da
 in dem ich in der CSS-Datei eine Farbe geändert habe, die ich wieder rückgängig machen will. Also habe ich mich gefragt: 
 Wie bekomme ich nur die Änderungen in der README in den main-Branch, nicht andere commits in der CSS? 
 -> da musste ich erstmal aufgegeben, das habe ich leider noch nicht hinbekommen... 
+
+Dann wollte ich mit "revert" arbeiten auf dem Branch "alternative colors". Da stand mir erst ein conflict wegen unmerged files
+im Weg, aber danach hat es funktioniert und ich habe einen vorherigen Stand des Branches hergestellt. 
