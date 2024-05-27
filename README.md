@@ -15,5 +15,6 @@ Gelernt: Der Befehl "mv" bezieht sich anscheinend nicht auf Dateien außerhalb v
 Nächste Challenge: 
 Ich habe in diesem README.md die Beschreibungen und Screenshots hinzugefügt. Das ist aber im Branch "alternative-color", 
 in dem ich in der CSS-Datei eine Farbe geändert habe, die ich wieder rückgängig machen will. Also habe ich mich gefragt: 
-Wie bekomme ich nur die Änderungen in der README in den main-Branch, nicht andere commits in der CSS?  
+Wie bekomme ich nur die Änderungen in der README in den main-Branch, nicht andere commits in der CSS? 
+-> da musste ich erstmal aufgegeben, das habe ich leider noch nicht hinbekommen... 
  
