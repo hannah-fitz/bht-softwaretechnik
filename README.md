@@ -11,3 +11,8 @@ Einige Zwischenschritte beim Sammeln von ersten Erfahrungen mit Git und Github:
 
 Gelernt: Der Befehl "mv" bezieht sich anscheinend nicht auf Dateien außerhalb von Git. 
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/048bc771-bf67-438b-99a3-73e3a63ce4eb)
+
+Nächste Challenge: 
+Ich habe in diesem README.md die Beschreibungen und Screenshots hinzugefügt. Das ist aber im Branch "alternative-color", 
+in dem ich in der CSS-Datei eine Farbe geändert habe, die ich wieder rückgängig machen will. Also habe ich mich gefragt: 
+Wie bekomme ich nur die Änderungen in der README in den main-Branch, nicht andere commits in der CSS? 
