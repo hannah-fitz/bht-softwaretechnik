@@ -7,7 +7,7 @@
 }
 
 :root{
-    --dark-color: hsl(24, 38%, 26%);
+    --dark-color: red;
     --medium-color: hsl(28, 28%, 65%);
     --light-color: hsl(25, 38%, 91%);
     --lighter-color:  hsl(20, 29%, 97%);
