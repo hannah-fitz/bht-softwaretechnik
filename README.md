@@ -1,9 +1,6 @@
 # bht-softwaretechnik
 Aufgabe Versionskontrolle 
 
-# bht-softwaretechnik
-Aufgabe Versionskontrolle 
-
 Einige Zwischenschritte beim Sammeln von ersten Erfahrungen mit Git und Github: 
 
 1. Versuch "push" ist schiefgegangen: Ich musste mich erst authentifizieren
