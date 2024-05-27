@@ -18,10 +18,12 @@ in dem ich in der CSS-Datei eine Farbe geändert habe, die ich wieder rückgäng
 Wie bekomme ich nur die Änderungen in der README in den main-Branch, nicht andere commits in der CSS? 
 -> da musste ich erstmal aufgegeben, das habe ich leider noch nicht hinbekommen... 
 
-# Zeitreisen
+*Zeitreisen*
 Dann wollte ich mit "revert" arbeiten auf dem Branch "alternative colors". Da stand mir erst ein conflict wegen unmerged files
 im Weg, aber danach hat es funktioniert und ich habe einen vorherigen Stand des Branches hergestellt. 
 Ich habe auch "reset" ausprobiert und dabei ein bisschen ausprobieren müssen, wann push und pull aufgerufen werden muss. 
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/372b9201-aed2-4d3a-8783-31e05bb45d2c)
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/5a8f9d25-8b0c-414a-b07d-2dd884c1612a)
 
+*diff, remove*
+![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/b630c8e4-8aba-4403-8d12-9268a64452c2)
