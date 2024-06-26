@@ -25,5 +25,23 @@ Ich habe auch "reset" ausprobiert und dabei ein bisschen ausprobieren müssen, w
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/372b9201-aed2-4d3a-8783-31e05bb45d2c)
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/5a8f9d25-8b0c-414a-b07d-2dd884c1612a)
 
-*diff, remove*
+*diff, remove* angewendet: 
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/b630c8e4-8aba-4403-8d12-9268a64452c2)
+
+
+ERGÄNZUNG vom 26.06.---------------------------------------------------------------------------
+
+Ich habe noch einen weiteren Branch erstellt namens "new feature". Darin habe ich Code in der css-Datei verändert. 
+Den Branch habe ich diesmal nicht mit der Kommandozeile, sondern in Githubs Web Interface über einen Pull Request gemerged. 
+![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/466d464f-d16e-48a4-9451-69b70c503d07)
+Mit merge habe ich aber auch schon vorher herumprobiert: 
+![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/609f3348-8e1e-4443-a5db-dbc4bd9dbbe5)
+
+Um mich noch weiter mit den "Zeitreise"-Möglichkeiten zu beschäftigen, wollte ich ausprobieren, wie man einen neuen Branch basierend auf einem
+commit aus der Vergangenheit erstellt, den man bearbeiten kann, während man die vorhandenen aktuellen Branches aber behält. 
+Dafür habe ich zuerst einen früheren commit mit Angabe des Hash-Werts ausgecheckt und dann einen neuen Branch erstellt. 
+![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/4c10a811-cb89-4207-96d1-71d0d0542cde)
+
+Dann habe ich 
+![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/14d944e9-80bb-4933-8da8-5bf6823869f6)
+
