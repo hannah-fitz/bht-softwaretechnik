@@ -52,3 +52,4 @@ Dazu habe ich ihn zuerst lokal gelöscht:
 Und dann auch remote: 
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/c5071eda-401c-4b8e-bd81-978371f13c3a)
 
+Zum Schluss habe ich die zweite README-Datei, die sich im Branch "alternative colors" befand, gelöscht, um Verwechslungen zu vermeiden. 
