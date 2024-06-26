@@ -25,7 +25,7 @@ Ich habe auch "reset" ausprobiert und dabei ein bisschen ausprobieren müssen, w
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/372b9201-aed2-4d3a-8783-31e05bb45d2c)
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/5a8f9d25-8b0c-414a-b07d-2dd884c1612a)
 
-*diff, remove* angewendet: 
+Ich habe die Befehle *diff, remove* angewendet: 
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/b630c8e4-8aba-4403-8d12-9268a64452c2)
 
 
@@ -42,6 +42,13 @@ commit aus der Vergangenheit erstellt, den man bearbeiten kann, während man die
 Dafür habe ich zuerst einen früheren commit mit Angabe des Hash-Werts ausgecheckt und dann einen neuen Branch erstellt. 
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/4c10a811-cb89-4207-96d1-71d0d0542cde)
 
-Dann habe ich 
+In diesem alten Stand des Repositories war nur die html-Datei und noch nicht die CSS-Datei vorhanden: 
 ![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/14d944e9-80bb-4933-8da8-5bf6823869f6)
+
+Als nächstes wollte ich diesen Branch wieder löschen, ohne ihn zu mergen, also einfach verwerfen. 
+Dazu habe ich ihn zuerst lokal gelöscht: 
+![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/e7e57329-c094-4cd4-b913-1d4feda6595f)
+
+Und dann auch remote: 
+![grafik](https://github.com/hannah-fitz/bht-softwaretechnik/assets/170937973/c5071eda-401c-4b8e-bd81-978371f13c3a)
 
